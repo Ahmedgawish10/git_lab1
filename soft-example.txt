@@ -1,3 +1,4 @@
 this first commit in this file soft and won't deleted after upload this file i will updadte this file (create new commit and delete it by soft)\
 "this second content of commit and soft will delete the name of commit only and the content of txt won't delete"
 "this example on hard and the content will delete cause hard delete name commit and the contnet of it in txt file "
+"this second content of commit and soft will delete the name of commit only and the content of txt won't delete"
