@@ -1,0 +1,1 @@
+in here content of commit that will rename it after creating it (will use git rebase )
